@@ -1,11 +1,11 @@
+package com.driver;
+
 public class Song {
     private String title;
     private int length;
     private int likes;
 
-    public Song(){
-
-    }
+    public Song(){}
 
     public Song(String title, int length){
         this.title = title;
